@@ -13,5 +13,11 @@ html,body{
 #main{
     width:70%;
     height:70%;
-    margin:30px auto;
+    margin:0 auto;
+}
+h5{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin:5px auto;
 }
