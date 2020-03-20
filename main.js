@@ -14,7 +14,7 @@ hot1;
 
 hot1 = new Handsontable(container1, {
 colHeaders: ['语言名称', '排名', '升或降', '变化幅度'],
-colWidths:140,
+colWidths:220,
 data: data,
 startRows: 5,
 startCols: 5,
